@@ -48,7 +48,7 @@ public class CalculateBMI {
 		} else if(bodyMassIndex > 40){
 			System.out.println("You are extremely obese");
 		} else {
-			// doesn't do anything
+			// doesn't do anything unless there's an error - perhaps in your code?
             System.out.println("Are you even human? LOL!");
         }
 		
